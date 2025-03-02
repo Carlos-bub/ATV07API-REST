@@ -33,7 +33,9 @@ Este projeto é um gerador de memes interativo que utiliza a **API pública do I
 
 ## 🖼 Demonstração
 
-
+![Texto Alternativo](public/1.png)
+![Texto Alternativo](public/2.png)
+![Texto Alternativo](public/3.png)
 
 ## ⚙️ Como Executar
 1. Crie uma conta gratuita no [ImgFlip](https://imgflip.com/) para obter username/password
@@ -42,7 +44,7 @@ Este projeto é um gerador de memes interativo que utiliza a **API pública do I
 
 3. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/meme-generator.git
+git clone https://github.com/Carlos-bub/ATV07API-REST.git
 ```
 **4. instale as dependencias:**
 
